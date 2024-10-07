@@ -17,71 +17,67 @@ A empresa Trevo Digital atua com diversos clientes a nível global em mais de 15
 Por isso, todos os projetos devem ser muito bem estruturados pensando em SEO, fluidez e reuso (componentes reutilizados em vários projetos).
 O seu objetivo é criar um projeto que dê atenção aos requisitos anteriormente mencionados.
 
-## Recursos
-
-1. Utilizar alguma ferramenta de design online de colaboração. Ex: Figma
-
 ## Passo a Passo
 
-Neste desafio trabalhamos na elaboração de uma estrutura inicial do Design System e no desenvolvimento de dois protótipos mobile e web das telas do projeto de e-commerce de um novo Cliente da Trevo Digital.
+Neste desafio, trabalhei na elaboração de uma estrutura inicial do Design System e no desenvolvimento de dois protótipos mobile e quatro web das telas do projeto de e-commerce de um novo Cliente da Trevo Digital.
 
-Antes de começar a trabalhar, a equipe de análises e requisitos desenvolveu o WireFrame inicial da versão mobile do projeto:
+Antes de começar a trabalhar, analisei a seguinte imagem abaixo, onde pude notar algumas inconsistências. O que fiz, para melhorar o resultado final deste Wireframe em questão, foi:
+• Manter a consistência no espaçamento dos cards/produtos;
+• Adicionar informações sobre o produto (descrição) e precificação decimal;
+• Melhorar a hierarquia das informações, como títulos, descrições, preços e botões;
+• Utilizar cores contrastantes para uma maior identificação e embelezamento da interface para com a marca.
+• Adicionar mais opções à barra de navegação, tendo em mente que o usuário possivelmente precisaria criar uma conta para comprar os produtos e ou serviços oferecidos (todavia, não realizei a prototipação das mesmas, pois não me fora pedido no desafio mobile);
+• Adicionar a marca e logotipo da mesma na splash screen para maior identificação da marca.
 
-![Mobile](assets/mobile.png)
+Essas alterações não só corroboram para com uma melhor aparência da plataforma, como também auxiliam o usuário no uso da mesma.
 
-Para trabalhar o protótipo, devemos seguir a paleta de cores que o cliente enviou:
+![Mobile](assets![image](https://github.com/user-attachments/assets/e5cff349-5ac6-432f-85e7-b8c0509f7228)
+)
 
+Para trabalhar o protótipo, eu segui a paleta de cores abaixo, que fora enviada pelo cliente. Entretanto, também adicionei duas novas cores: o acinzentado (1E1E1E) e o branco off-white (F7F7F7), para obter um melhor contraste durante o processo de design, além de também corrigir empecilhos e ou furos das regras de contraste WCAG. 
+
+Antes:
 ![Colors](assets/colors.png)
+
+Depois:
+![image](https://github.com/user-attachments/assets/b5706c54-ef61-40e6-bfaf-b70feb90148a)
 
 ### Design System
 
-O Design System do projeto será um esboço inicial com:
+O sistema de design não foi inteiramente apresentado, afinal, seria parte do meu trabalho, conclui-lo. Além das cores, optei por utilizar uma fonte aberta e sem restrições de usos comerciais, a Jost; bem como criei alguns componentes importantes para a consistência do design geral do aplicativo e ou website. O design system ou style guide da marca "Trevo Digital" ficou assim:
 
-- Tipos de Fontes
-- Cores
-- Componentes
-
+![image](https://github.com/user-attachments/assets/b7e556f8-070c-477f-bf4f-8eadaedca9d3)
 
 ### Versão Mobile
 
-Para desenvolver as telas do Mobile, devemos revisar se a UI e UX está correta antes de trabalhar no protótipo. Com seus conhecimentos, revise a proposta e aplique as devidas correções que você achar necessária para melhorar a usabilidade do projeto.
+Antes de começar com a versão mobile, trabalhei no wireframe anterior, fazendo reajustes do que me fora enviado, e este foi o resultado após minha correção:
+
+![Wireframes Mobile](https://github.com/user-attachments/assets/6255b3ad-2bcb-4feb-ab9a-d90c215d0bcf)
 
 ### Versão Desktop
 
-Não foi desenvolvido proposta de Wireframe para versão desktop, por isso deveremos elaborá-la seguindo a estrutura da versão mobile, mas aplicando os devidos ajustes para a nova versão.
+Embora os Wireframes para computador não tivessem sido apresentados, eu tive uma grande facilidade em tomar conta disso! Eu me sinto muito confortável em trabalhar com telas de website, talvez por passar bastante tempo no computador e ser acostumado com os layouts. Também optei por criar wireframes mid-fi, ou seja, esboços mais fidedignos à versão final do produto. Durante o processo de design e prototipação em si, realizei algumas mudanças e reiterações, tendo em mente insights que obtive durante o processo e até mesmo soluções para novos problemas que surgiam. O que eu guardei de informações-chave foram: "[...] forte posicionamento no setor digital com uma equipe focada na geração de leads de qualidade. Por isso, todos os projetos devem ser muito bem estruturados pensando em SEO, fluidez e reuso (componentes reutilizados em vários projetos) e é uma loja de e-commerce". Portanto, segui o desafio com base nisso. Os Wireframes para computador ficaram da seguinte maneira:
 
-Alguns elementos importantes que temos na versão mobile:
+Homepage:
+![Wireframe Homepage](https://github.com/user-attachments/assets/48a18146-ac32-4e36-9961-ec9875e47612)
 
-- Imagem produto
-- Título
-- Valoração
-- Preço
-- Botão de mais opções
+Produtos:
+![Wireframe Produtos](https://github.com/user-attachments/assets/adb73857-586c-48d8-860a-a33cbf1ceb92)
 
-> Dica: Uma diferença entre as versões seria a paginação.
+Detalhes de Produtos:
+![Wireframe Detalhes](https://github.com/user-attachments/assets/c0ce2bb5-ca20-4d06-bc3f-4e3c4fd6e067)
 
-### Extras
+Contato:
+![Wireframe Contato](https://github.com/user-attachments/assets/80cac101-3501-4c2e-a2c5-8e485539df8f)
 
-- **Diferencial 1** Criar a proposta visual da tela de detalhes de produto
-- **Diferencial 2** Prototipar o Modal de avaliação na versão Desktop  
+Optei pela criação de 4 páginas, sendo estas: a homepage/página inicial (imagem 1), a página de produtos oferecidos (imagem 2), a página de detalhes de algum produto específico (imagem 3) e, por fim, a página para contato (imagem 4). Senti que seria um grande diferencial fazer várias páginas assim, e sinceramente, me diverti bastante durante a criação desse projeto.
+
+Após finalizar os wireframes, finalmente parti para o design final e a prototipagem dos elementos. Foi uma experiência muito legal, onde pude testar bastante coisa. Sinto que esse projeto me ensinou ainda mais do que eu achei que já soubesse.
+
+## O link para o protótipo final está aqui: https://www.figma.com/proto/lOtNDbLsLtQIbn6NEyMqNV/Trevo-Digital?node-id=0-1&t=LURT5tyeNGh4xUSE-1
 
 ## Finalização e Instruções para a Apresentação
 
-Avisar sobre a finalização e enviar para correção.
+Desde já, agradeço pela oportunidade de poder participar deste processo seletivo, mas principalmente por reacenderem a chama da minha paixão pelo UI Design. Há algum tempo, quando terminei o meu curso profissionalizante da Google, eu realmente senti que este seria o caminho pelo qual eu gostaria de seguir, e poder estar aqui hoje, demonstrando as minhas habilidades e competências, sendo eu mesmo, é com certeza reconfortante. Espero poder contar com vocês novamente daqui para frente, e espero que vocês queiram contar comigo também! Muito obrigado por tudo, principalmente pelo tempo de vocês!
 
-1. Confira se você respondeu o Scorecard anexado na Vaga que se candidatou;
-2. Confira se você respondeu o Mapeamento anexado na Vaga que se candidatou;
-3. Acesse [https://coodesh.com/challenges/review](https://coodesh.com/challenges/review);
-4. Adicione o repositório com a sua solução;
-5. Grave um vídeo, utilizando o botão na tela de solicitar revisão da Coodesh, com no máximo 5 minutos, com a apresentação do seu projeto. Utilize o tempo para:
-- Explicar o objetivo do desafio
-- Quais tecnologias foram utilizadas
-- Foque em pontos obrigatórios e diferenciais quando for apresentar.
-6. Adicione o link da apresentação do seu projeto no README.md.
-7. Verifique se o Readme está bom e faça o commit final em seu repositório;
-8. Confira a vaga desejada;
-9. Envie e aguarde as instruções para seguir no processo. Sucesso e boa sorte. =)
-
-## Suporte
-
-Use a [nossa comunidade](https://discord.gg/rdXbEvjsWu) para tirar dúvidas sobre o processo ou envie uma mensagem diretamente a um especialista no chat da plataforma. 
+## O link para a apresentação está aqui:
