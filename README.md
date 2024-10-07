@@ -39,6 +39,7 @@ Antes:
 ![Colors](assets/colors.png)
 
 Depois:
+
 ![image](https://github.com/user-attachments/assets/b5706c54-ef61-40e6-bfaf-b70feb90148a)
 
 ### Design System
