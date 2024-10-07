@@ -31,8 +31,7 @@ Antes de começar a trabalhar, analisei a seguinte imagem abaixo, onde pude nota
 
 Essas alterações não só corroboram para com uma melhor aparência da plataforma, como também auxiliam o usuário no uso da mesma.
 
-![Mobile](assets![image](https://github.com/user-attachments/assets/e5cff349-5ac6-432f-85e7-b8c0509f7228)
-)
+![Mobile](assets![image](https://github.com/user-attachments/assets/e5cff349-5ac6-432f-85e7-b8c0509f7228))
 
 Para trabalhar o protótipo, eu segui a paleta de cores abaixo, que fora enviada pelo cliente. Entretanto, também adicionei duas novas cores: o acinzentado (1E1E1E) e o branco off-white (F7F7F7), para obter um melhor contraste durante o processo de design, além de também corrigir empecilhos e ou furos das regras de contraste WCAG. 
 
