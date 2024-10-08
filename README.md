@@ -79,5 +79,3 @@ Após finalizar os wireframes, finalmente parti para o design final e a prototip
 ## Finalização e Instruções para a Apresentação
 
 Desde já, agradeço pela oportunidade de poder participar deste processo seletivo, mas principalmente por reacenderem a chama da minha paixão pelo UI Design. Há algum tempo, quando terminei o meu curso profissionalizante da Google, eu realmente senti que este seria o caminho pelo qual eu gostaria de seguir, e poder estar aqui hoje, demonstrando as minhas habilidades e competências, sendo eu mesmo, é com certeza reconfortante. Espero poder contar com vocês novamente daqui para frente, e espero que vocês queiram contar comigo também! Muito obrigado por tudo, principalmente pelo tempo de vocês!
-
-## O link para a apresentação está aqui:
